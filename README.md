@@ -1,0 +1,2 @@
+# Hybrid-Deep-Learning-Model-for-Brain-Tumor-Detection-Using-CNN-and-EfficientNet-from-MRI-Images
+Brain tumors are among the most severe neurological disorders, necessitating prompt detection to enhance patient survival and treatment strategies. Magnetic Resonance Imaging (MRI) and other medical imaging techniques give detailed information about brain structures and are often used to find abnormal tissue growth. 
